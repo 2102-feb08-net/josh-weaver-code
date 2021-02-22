@@ -4,7 +4,8 @@
 bin
 obj
 .vs
-.vscode
+.vscode/
+
 
 # if a file is /already tracked/ by git, the
 # gitignore will not by itself remove it.
